@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniDias1&label=Profile%20views&color=ba0bea&style=flat" alt="ViniDias1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniDias1&label=Profile%20views&color=ba0bea&style=flat" alt="Ms-footsteps" /> </p>
 </div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vinicius Dias</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tayssa Passos</h1>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
         margin-left: 40px;         margin-right: 40px; /* Espaçamento à direita *//* Margem esquerda para o parágrafo */ /* Define a tabulação de 20 pixels */">
-I am currently an undergraduate student in Computer Science at the Federal University of Sergipe (UFS - São Cristovão).</p>
+I am currently an undergraduate student in Computer Science at the Tiradentes University (UNIT).</p>
 <br><br>
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br><br>
 
@@ -29,9 +29,9 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
     <h4> ✅ Frameworks/Libraries: </h4>
     <img src="https://skillicons.dev/icons?i=nodejs,react,angular,spring" /><br/>
     <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/>
     <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,docker,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=git" /><br/>
 </p>
 
 <br>
@@ -42,13 +42,13 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
 
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br>
 <div>
-  <a href="https://www.instagram.com/viniciussdia/" target="_blank">
+  <a href="https://www.instagram.com/tayssa_passos/" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:viniciusdvalenca@gmail.com">
+  <a href="mailto:tayssapassoss@gmail.com">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/vinidias1" target="_blank">
+  <a href="www.linkedin.com/in/tayssa-passos" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
