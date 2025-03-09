@@ -12,12 +12,12 @@ I am currently an undergraduate student in Computer Science at the Tiradentes Un
 
 <div style="display: flex; justify-content: center;">
 
-  <a href="https://github.com/ViniDias1/github-readme-stats" >
-    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=ViniDias1&show_icons=true&theme=radical&rank_icon=github" alt="ViniDias1 GitHub stats">
+  <a href="https://github.com/Ms-footsteps/github-readme-stats" >
+    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=Ms-footsteps&show_icons=true&theme=radical&rank_icon=github" alt="Ms-footsteps GitHub stats">
   </a>
   
-<a href="https://github.com/ViniDias1/github-readme-stats">
-    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniDias1&langs_count=8&layout=compact&theme=radical" alt="Top Langs">
+<a href="https://github.com/Ms-footsteps/github-readme-stats">
+    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-footsteps&langs_count=8&layout=compact&theme=radical" alt="Top Langs">
   </a>
 
   
@@ -25,9 +25,9 @@ I am currently an undergraduate student in Computer Science at the Tiradentes Un
 <p align="center">
   <h3>Main Skills</h3>
     <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,java" /><br/>
     <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,spring" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,spring" /><br/>
     <h4> ✅ Databases: </h4>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/>
     <h4> ✅ Others: </h4>
