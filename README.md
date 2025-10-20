@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniDias1&label=Profile%20views&color=ba0bea&style=flat" alt="Ms-footsteps" /> </p>
 </div>
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />  <img src="https://skillicons.dev/icons?i=nodejs,angular" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />  <img src="https://skillicons.dev/icons?i=javascript,vue" /></div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tayssa Passos</h1>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
@@ -25,9 +25,9 @@ I am currently an undergraduate student in Computer Science at the Tiradentes Un
 <p align="center">
   <h3>Main Skills</h3>
     <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=python,java" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript" /><br/>
     <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,spring" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,spring" /><br/>
     <h4> ✅ Databases: </h4>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/>
     <h4> ✅ Others: </h4>
@@ -48,7 +48,7 @@ I am currently an undergraduate student in Computer Science at the Tiradentes Un
   <a href="mailto:tayssapassoss@gmail.com">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="www.linkedin.com/in/tayssa-passos" target="_blank">
+  <a href="https://br.linkedin.com/in/tayssa-passos" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
