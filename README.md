@@ -27,7 +27,3 @@
 - ✉️ Email: tayssapassoss@gmail.com  
 
 ---
-
-## 🐍 GitHub Contributions
-
-![Contribution snake](https://raw.githubusercontent.com/ViniDias1/ViniDias1/output/github-contribution-grid-snake.svg)
