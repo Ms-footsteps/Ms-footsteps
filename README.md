@@ -5,7 +5,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (used or interested in learning)
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
